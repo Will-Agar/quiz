@@ -1,16 +1,10 @@
-# quiz
+# Quiz App
+A small app which lets you go through a flutter-related quiz
+## Screenshots
+![quiz_1](https://github.com/Will-Agar/quiz/assets/55886488/8e937d0b-512d-44e4-b3aa-1eab9d5da32a)
+![quiz_2](https://github.com/Will-Agar/quiz/assets/55886488/cfe6d2a6-45a0-443c-ad91-1e0d8a67f26c)
+![quiz_3](https://github.com/Will-Agar/quiz/assets/55886488/0a7e6719-af39-40a7-901c-f3c25a3f3bc8)
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
